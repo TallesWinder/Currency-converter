@@ -10,7 +10,7 @@ body {
 }
 
 #cabeçalho {
-    background: #9657A5;
+    background: #008000;
     width: 375px;
     height: 66px;
     margin-left: auto;
@@ -70,7 +70,7 @@ h1 {
 }
 
 #botão {
-    background: #CDD728;
+    background: #00FF00;
     border-radius: 25px;
     height: 48px;
     width: 327px;
@@ -89,7 +89,7 @@ h1 {
 }
 
 #caixa-interna {
-    border: 1px solid #9657A5;
+    border: 1px solid #008000;
     border-radius: 4px;
     padding-top: 12px;
     padding-bottom: 12px;
